@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--ctc-tq5jp45bvqe.com/sitemap.xml
